@@ -1,0 +1,19 @@
+pre{
+    font-family: 'Times New Roman', Times, serif; border: solid rgb(20, 11, 11); text-align: center; 
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-decoration: underline; color: rgb(20, 17, 17);  
+}
+h1{
+    text-align: center;  
+}
+
+#tabla1 th, td {
+    border: solid rgba(10, 2, 0, 0.904); margin: 200px; 
+}
+body{
+    background-color: rgb(185, 68, 0);
+}
+main{
+    color: rgba(225, 229, 235, 0.719);
+}
